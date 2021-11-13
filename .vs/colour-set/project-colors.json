@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1c72429f-0ab5-4975-8197-7abd36134043": {
+      "ProjectGuid": "1c72429f-0ab5-4975-8197-7abd36134043",
+      "DisplayName": "colour-set",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
